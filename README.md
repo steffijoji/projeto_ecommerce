@@ -1,6 +1,7 @@
 # Projeto de E-commerce
 
 Construção de um Projeto de Banco de Dados relacionado a Venda de Produtos. Desafio 1 do programa **Database Experience** da DIO 🚀.
+Ferramenta utilizada: MySQL Workbench
 
 ### REQUISITOS:
 
